@@ -30,5 +30,5 @@ Whether I am engineering backend logic in Python, optimizing frontend user exper
 ## 📫 Let's Connect
 
 - **Professional History:** [LinkedIn](https://linkedin.com/in/ayomideolorode)
-- **Technical Storytelling:** [YouTube](https://youtube.com/c/@haywhystudios)
+- **Technical Storytelling:** [YouTube](https://youtube.com/@haywhystudios)
 - **Real-Time Updates:** [X (Twitter)](https://twitter.com/ayomide_busines)
