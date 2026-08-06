@@ -23,9 +23,9 @@ Whether I am engineering backend logic in Python, optimizing frontend user exper
 ## 📊 Developer Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayomideolorode&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=64748b" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayomideolorode&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=64748b" height="150" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/ayomideolorode?template=classic&base.header=false&base.activity=true&base.repositories=true&languages=true&languages.limit=5&config.timezone=Africa%2FLagos" alt="GitHub Metrics" />
 </div>
+
 
 ## 📫 Let's Connect
 
